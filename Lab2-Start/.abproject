@@ -2,10 +2,10 @@
   "ProjectName": "Lab2-Finish",
   "ProjectGuid": "95617063-a639-47db-8aa1-90ca4cdf69d4",
   "projectVersion": 1,
-  "AppIdentifier": "com.telerik.Lab2Finish",
-  "DisplayName": "Lab2-Finish",
+  "AppIdentifier": "com.telerik.Lab2Start",
+  "DisplayName": "Lab2-Start",
   "Author": "",
-  "Description": "Lab2-Finish",
+  "Description": "Lab2-Start",
   "BundleVersion": "1.0",
   "AndroidVersionCode": "1",
   "iOSDeviceFamily": [
@@ -23,6 +23,6 @@
   ],
   "AndroidHardwareAcceleration": "false",
   "iOSStatusBarStyle": "Default",
-  "FrameworkVersion": "0.10.0",
+  "FrameworkVersion": "1.0.1",
   "Framework": "NativeScript"
 }
